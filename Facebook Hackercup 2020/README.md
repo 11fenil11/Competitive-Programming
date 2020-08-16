@@ -7,3 +7,6 @@ I could solved these 3 problems correctly. I have attempted D1:Chapter 1 (sample
 3) ✅C : Timber
 4) D1 : Chapter 1
 5) D2 : Chapter 2
+
+## Round 1
+1) ✅Problem A1: Perimetric - Chapter 1
